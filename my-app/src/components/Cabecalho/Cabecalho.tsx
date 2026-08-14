@@ -1,7 +1,10 @@
+
+
+
 export default function Cabecalho() {
     return (
         <header>
-            <p>Cabeçalho do site</p>
+            <h1>Cabeçalho do site</h1>
         </header>
     )
 }
