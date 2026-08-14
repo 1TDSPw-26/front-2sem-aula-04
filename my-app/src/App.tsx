@@ -5,4 +5,4 @@ export default function App(){
       <h1>Meu Componente</h1>
     </div>
   )
-}
+} 
