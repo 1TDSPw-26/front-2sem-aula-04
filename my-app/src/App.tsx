@@ -1,9 +1,13 @@
-
+import Cabecalho from './components/Cabecalho/cabecalho'
+import Conteudo from './components/Conteudo/conteudo'
+import Rodape from './components/Rodape/Rodape'
 
 export default function App() {
   return (
     <div>
-      <h1>Meus componentes</h1>
+      <Cabecalho />
+      <Conteudo />
+      <Rodape />
     </div>
   )
 }
